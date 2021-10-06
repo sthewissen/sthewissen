@@ -9,7 +9,7 @@
 - Pronouns: He/him
 - Fun fact: I love chocolate.
 
-### I'm available for freelance work! 🧑‍💻
+### I'm available to freelance work! 🧑‍💻
 I'm a .NET Developer specialized in Xamarin, but open to different opportunities! I'm located in the Netherlands and mostly looking for a remote position 🇳🇱 Want to learn more about me? Read [my resume](https://github.com/sthewissen/sthewissen/files/6571649/cv.pdf) ☺️
 
 ### Statistics for those who like them :)
