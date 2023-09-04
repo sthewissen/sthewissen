@@ -9,4 +9,4 @@
 - Fun fact: I love chocolate.
 
 ### I'm available to freelance work! 🧑‍💻
-I'm a .NET Developer specializing in Xamarin/.NET MAUI, but I am always open to exploring different technologies! I'm located in the Netherlands 🇳🇱☺
+I'm a .NET Developer specializing in Xamarin/.NET MAUI, but I am always open to exploring different technologies! I'm located in the Netherlands 🇳🇱😃
