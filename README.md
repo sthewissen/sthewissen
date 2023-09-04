@@ -8,5 +8,5 @@
 - Pronouns: He/him
 - Fun fact: I love chocolate.
 
-### I'm available to freelance work! 🧑‍💻
-I'm a .NET Developer specializing in Xamarin/.NET MAUI, but I am always open to exploring different technologies! I'm located in the Netherlands 🇳🇱😃
+### I'm available for freelance work! 🧑‍💻
+I’m a .NET developer from the Netherlands with a focus on mobile and web/backend development. However, I will not shy away from new challenges. Sharing with the community and helping people with the content I create is what motivates me on a daily basis. I also have a passion for design that I like to express in all of my work. I’m always eager to learn new things and consider myself to have a growth mindset. When I’m not coding you can find me on Twitter, playing soccer, cycling, being with my family, or just having the occasional drink with my friends. If you bring cookies, chocolate, and/or a nice beer we can quickly become best friends!
