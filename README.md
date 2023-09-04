@@ -9,7 +9,4 @@
 - Fun fact: I love chocolate.
 
 ### I'm available to freelance work! 🧑‍💻
-I'm a .NET Developer specialized in Xamarin/.NET MAUI, but always open to explore different technologies! I'm located in the Netherlands 🇳🇱☺️
-
-### Statistics for those who like them :)
-![Steven's Github stats](https://github-readme-stats.vercel.app/api?username=sthewissen&show_icons=true)
+I'm a .NET Developer specializing in Xamarin/.NET MAUI, but I am always open to exploring different technologies! I'm located in the Netherlands 🇳🇱☺
