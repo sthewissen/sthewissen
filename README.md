@@ -4,7 +4,7 @@
 - I occasionally blog about things I enjoy doing: https://thewissen.io
 - I get schooled by my good friend Mark on a podcast regularly: https://nullpointers.io
 - Ask me about .NET MAUI and/or mobile graphical thingamajigs.
-- Reach me on [Twitter](https://twitter.com/devnl) (yes, I'm calling it that).
+- Reach me on [BlueSky](https://bsky.app/profile/thewissen.io).
 - Pronouns: He/him.
 - Fun fact: I love chocolate.
 
