@@ -4,6 +4,8 @@
 - I occasionally blog about things I enjoy doing: https://thewissen.io
 - I get schooled by my good friend Mark on a podcast regularly: https://nullpointers.io
 - Ask me about .NET MAUI and/or mobile graphical thingamajigs.
+- Still feeding off the bygone glory of [PancakeView](https://github.com/sthewissen/Xamarin.Forms.PancakeView).
+- Author of such NuGet packages as [DebugRainbows](https://github.com/sthewissen/Plugin.Maui.DebugRainbows)
 - Reach me on [BlueSky](https://bsky.app/profile/thewissen.io).
 - Pronouns: He/him.
 - Fun fact: I love chocolate.
