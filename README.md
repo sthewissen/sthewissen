@@ -8,7 +8,7 @@
 - Author of such NuGet packages as [DebugRainbows](https://github.com/sthewissen/Plugin.Maui.DebugRainbows)
 - I help out on organizing various [.NET MAUI Days](https://mauiday.net)
 - Building a tool called [kitcod.es](https://kitcod.es)
-- Reach me on [BlueSky](https://bsky.app/profile/thewissen.io)
+- Reach me on [BlueSky](https://bsky.app/profile/thewissen.com)
 - Pronouns: He/him
 - Fun fact: I love chocolate
 
